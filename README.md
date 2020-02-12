@@ -6,7 +6,7 @@ This repository holds the source code for a simple [Jupyter Notebook](https://ju
 
 ## Prerequisites
 
-You will need Jupyter Notebook to tun this project. You can either use the web version of it or [install Jupyter Notebook](https://jupyter.org/install.html).
+You will need Jupyter Notebook to run this project. You can either use the web version of it or [install Jupyter Notebook](https://jupyter.org/install.html).
 
 ## Installation & Usage
 Download the project from the repository or clone it with the following command:
