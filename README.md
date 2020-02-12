@@ -2,7 +2,7 @@
 [![Flexmonster Pivot Table & Charts](https://s3.amazonaws.com/flexmonster/github/fm-github-cover.png)](https://flexmonster.com)
 Website: www.flexmonster.com
 
-This repository holds the source code for simple [Jupyter Notebook](https://jupyter.org/) and Flexmonster Pivot Table & Charts project.
+This repository holds the source code for a simple [Jupyter Notebook](https://jupyter.org/) and Flexmonster Pivot Table & Charts project.
 
 ## Prerequisites
 
