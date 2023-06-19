@@ -11,7 +11,7 @@ Table of contents:
 
 * [Prerequisites](#prerequisites)
 * [Installation](#installation)
-* [Usage](#usage)
+* [Related Flexmonster docs](#related-flexmonster-docs)
 
 ## <a href="prerequisites"></a>Prerequisites
 
@@ -30,6 +30,6 @@ git clone https://github.com/flexmonster/pivot-jupyter-notebook
 
 3. To run the sample project, select the `Cell` section in the navigation bar and click the `Run all` command.
 
-## <a href="usage"></a>Usage
+## <a href="related-flexmonster-docs"></a>Related Flexmonster docs
 
-For details on usage, refer to the [Integration with Jupyter Notebook](https://www.flexmonster.com/doc/integration-with-jupyter-notebook/) guide.
+- [Integration with Jupyter Notebook](https://www.flexmonster.com/doc/integration-with-jupyter-notebook/) — learn how to integrate Flexmonster into a Jupyter Notebook project.
