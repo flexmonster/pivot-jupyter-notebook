@@ -1,6 +1,6 @@
 # Flexmonster Pivot Table &amp; Charts integration with Jupyter Notebook
-[![Flexmonster Pivot Table & Charts](https://cdn.flexmonster.com/landing.png)](https://flexmonster.com)
-Website: www.flexmonster.com
+[![Flexmonster Pivot Table & Charts](https://cdn.flexmonster.com/landing.png)](https://flexmonster.com?r=github)
+Website: [www.flexmonster.com](https://www.flexmonster.com?r=github)
 
 ## Flexmonster Pivot Table & Charts
 Flexmonster Pivot is a powerful JavaScript tool for interactive web reporting. It allows you to visualize and analyze data from JSON, CSV, SQL, NoSQL, Elasticsearch, and OLAP data sources quickly and conveniently. Flexmonster is designed to integrate seamlessly with any client-side framework and can be easily embedded into your application.
@@ -32,4 +32,4 @@ git clone https://github.com/flexmonster/pivot-jupyter-notebook
 
 ## <a href="related-flexmonster-docs"></a>Related Flexmonster docs
 
-- [Integration with Jupyter Notebook](https://www.flexmonster.com/doc/integration-with-jupyter-notebook/) — learn how to integrate Flexmonster into a Jupyter Notebook project.
+- [Integration with Jupyter Notebook](https://www.flexmonster.com/doc/integration-with-jupyter-notebook?r=github) — learn how to integrate Flexmonster into a Jupyter Notebook project.
