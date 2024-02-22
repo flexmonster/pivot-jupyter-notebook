@@ -15,7 +15,7 @@ Table of contents:
 
 ## <a href="prerequisites"></a>Prerequisites
 
-- [A Jupyter environment](https://docs.jupyter.org/en/latest/start/index.html)
+- [A Jupyter environment](https://docs.jupyter.org/en/latest/install.html#install)
 
 ## <a href="installation"></a>Installation
 1. Download a `.zip` archive with the sample or clone it from GitHub with the following command:
