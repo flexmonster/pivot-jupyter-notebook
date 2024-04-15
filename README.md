@@ -47,7 +47,7 @@ Jupyter sample project contains several examples of Flexmonster Pivot usage:
 
 ## Related Flexmonster docs
 
-- [Integration with Jupyter](https://www.flexmonster.com/doc/integration-with-jupyter-notebook?r=sample_jup) — learn how to integrate Flexmonster with a Jupyter project.
+- [Integration with Jupyter](https://www.flexmonster.com/doc/integration-with-jupyter-notebook?r=sample_jup) — learn how to integrate Flexmonster into a Jupyter project.
 
 ## Support and feedback
 
