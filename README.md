@@ -1,5 +1,5 @@
 # Jupyter pivot table | Flexmonster Pivot Table & Charts sample project with Jupyter
-[![Flexmonster Pivot Table & Charts](https://cdn.flexmonster.com/landing.png)](https://www.flexmonster.com?r=sample_jup)
+[![Flexmonster Pivot Table & Charts](https://cdn.flexmonster.com/readmes/jupyter.webp)](https://www.flexmonster.com?r=sample_jup)
 Website: [flexmonster.com](https://www.flexmonster.com?r=sample_jup)
 
 [![Github Stars](https://img.shields.io/github/stars/flexmonster?style=social)](https://github.com/flexmonster) [![Twitter](https://img.shields.io/twitter/follow/Flexmonster?style=social)](https://twitter.com/Flexmonster)
